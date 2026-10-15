@@ -1,0 +1,1948 @@
+[
+  {
+    "week": 1,
+    "num": 1,
+    "q": "What sets a PhD apart from other degrees?",
+    "options": [
+      "Focus on practical skills and hands-on experience.",
+      "Development of critical thinking and analytical abilities.",
+      "Preparation to guide others in pursuing a PhD.",
+      "Completion of coursework and examinations."
+    ],
+    "correct": 1,
+    "explain": "Answer: Development of critical thinking and analytical abilities.. Research-based study relies on independent inquiry and learning to make decisions; advisers guide and support rather than prescribe every step.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 1,
+    "num": 2,
+    "q": "What is the fundamental science behind the property?",
+    "options": [
+      "‘3. What are the limits, if any, to this property?",
+      "Based on the professional setting a materials specialist ends up in, he/she will likely get pulled into one of the above types of activities. However, having both - a good feel for the fundamental sciences, as well as an understanding of the engineering approach to relate to thesors en et mi tte",
+      "At the same time, it usually takes considerable experience to fully understand, appreciate, and make use of the linkages between fundamental science and the world of engineering. Experience and systematic studies provide us with the insight to make the connections between",
+      "the real-world inventions and the science behind them. Such insight helps us truly appreciate the contributions of the scientist as well as the engineer in shaping our interactions with the world around us. Such insight also enables us to take our technical pursuits to greater Swtnciaata! + nln so se se"
+    ],
+    "correct": 1,
+    "explain": "Answer: Based on the professional setting a materials specialist ends up in, he/she will likely get pulled into one of the above types of activities. However, having both - a good feel for the fundamental sciences, as well as an understanding of the engineering approach to relate to thesors en et mi tte. Research degrees emphasize critical thinking, discovery, and the iterative nature of inquiry.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 1,
+    "num": 3,
+    "q": "What is the importance of attitude and communication in the student-advisor relationship?",
+    "options": [
+      "Having prior knowledge is the most important factor for a student to work towards a PhD.",
+      "Advisors expect students to define their own research problems without any guidance.",
+      "Students should choose advisors based on their reputation and availability.",
+      "Attitude, inclination to learn, and effective communication with the advisor are crucial."
+    ],
+    "correct": 3,
+    "explain": "Answer: Attitude, inclination to learn, and effective communication with the advisor are crucial.. Research degrees emphasize critical thinking, discovery, and the iterative nature of inquiry.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 1,
+    "num": 4,
+    "q": "What makes research challenging for first-time researchers?",
+    "options": [
+      "The need to handle routine work and drudgery.",
+      "The sudden shift in patterns from coursework to research.",
+      "The discovery process involved in understanding the research process.",
+      "The pressure to obtain a degree and complete the research process."
+    ],
+    "correct": 2,
+    "explain": "Answer: The discovery process involved in understanding the research process.. Research degrees emphasize critical thinking, discovery, and the iterative nature of inquiry.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 1,
+    "num": 5,
+    "q": "What is one advantage of research when dealing with failure?",
+    "options": [
+      "Research allows for changing initial assumptions and exploring different approaches.",
+      "Research ensures that failures are minimized and success is guaranteed.",
+      "Research provides a predefined path to follow, for sure eliminating the possibility of failure.",
+      "Research discourages any changes in assumptions or approaches to maintain consistency."
+    ],
+    "correct": 0,
+    "explain": "Answer: Research allows for changing initial assumptions and exploring different approaches.. Research degrees emphasize critical thinking, discovery, and the iterative nature of inquiry.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 1,
+    "num": 6,
+    "q": "When conducting experiments and analysing results in research:",
+    "options": [
+      "Each individual step will always lead to something significant.",
+      "The familiarity with the area helps in building experiments, but the results are often insignificant.",
+      "Day-to-day experiments and results are usually significant and groundbreaking.",
+      "‘Small steps are taken, and over time they contribute to something significant."
+    ],
+    "correct": 3,
+    "explain": "Answer: ‘Small steps are taken, and over time they contribute to something significant.. Experimental design controls and varies factors systematically so researchers can study responses, estimate variability and draw defensible conclusions.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 1,
+    "num": 7,
+    "q": "Technologies in use today have a life span of decades.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1,
+    "explain": "Answer: False. Research degrees emphasize critical thinking, discovery, and the iterative nature of inquiry.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 1,
+    "num": 8,
+    "q": "Engineers aim to reduce the number of parts in a product.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explain": "Answer: True. Research degrees emphasize critical thinking, discovery, and the iterative nature of inquiry.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 1,
+    "num": 9,
+    "q": "Global warming is only a theoretical phenomenon.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1,
+    "explain": "Answer: False. Research degrees emphasize critical thinking, discovery, and the iterative nature of inquiry.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 1,
+    "num": 10,
+    "q": "Carbon dioxide in the atmosphere contributes to global warming.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explain": "Answer: True. Research degrees emphasize critical thinking, discovery, and the iterative nature of inquiry.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 2,
+    "num": 1,
+    "q": "Experimental data generated from a setup must validate the theoretical predictions or models designed for that setup.",
+    "options": [
+      "True",
+      "False",
+      "Sometimes",
+      "Never"
+    ],
+    "correct": 0,
+    "explain": "Answer: True. Experimental observations are used to check whether a setup behaves consistently with its theoretical predictions or model; discrepancies should be investigated rather than ignored.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 2,
+    "num": 2,
+    "q": "Literature survey is important because:",
+    "options": [
+      "It summarizes work already done in the research area",
+      "It helps ensure research is not repeated unnecessarily",
+      "It helps identify approaches and gaps in prior work",
+      "It helps clarify controversial results"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": "Answer: It summarizes work already done in the research area; It helps ensure research is not repeated unnecessarily; It helps identify approaches and gaps in prior work; It helps clarify controversial results. A good literature survey locates prior work, identifies gaps, and records traceable sources; bibliographic identifiers and database coverage serve different purposes.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 2,
+    "num": 3,
+    "q": "Which literature-search method helps identify the earliest contributor to a scientific outcome?",
+    "options": [
+      "Keyword search, then sort by publication year",
+      "Citation search, then sort by publication year",
+      "Keyword search, then sort by citation count",
+      "Backward-reference search after a keyword search"
+    ],
+    "correct": 3,
+    "explain": "Answer: Backward-reference search after a keyword search. A good literature survey locates prior work, identifies gaps, and records traceable sources; bibliographic identifiers and database coverage serve different purposes.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 2,
+    "num": 4,
+    "q": "Which bibliographic detail is sufficient and unique for locating an archival journal article?",
+    "options": [
+      "ISSN",
+      "DOI",
+      "Page number",
+      "Volume number"
+    ],
+    "correct": 1,
+    "explain": "Answer: DOI. A good literature survey locates prior work, identifies gaps, and records traceable sources; bibliographic identifiers and database coverage serve different purposes.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 2,
+    "num": 5,
+    "q": "Which statement is always true for an open-access journal?",
+    "options": [
+      "It is not peer reviewed",
+      "Articles are freely available to readers",
+      "It charges authors to publish",
+      "It has a dubious reputation"
+    ],
+    "correct": 1,
+    "explain": "Answer: Articles are freely available to readers. A good literature survey locates prior work, identifies gaps, and records traceable sources; bibliographic identifiers and database coverage serve different purposes.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 2,
+    "num": 6,
+    "q": "Which is NOT a recommended practice for choosing references?",
+    "options": [
+      "Include relevant publications actually referred to",
+      "Include the journal editor’s latest publications regardless of relevance",
+      "Include original publications on the topic",
+      "Include own publications referred to for further details"
+    ],
+    "correct": 1,
+    "explain": "Answer: Include the journal editor’s latest publications regardless of relevance. A good literature survey locates prior work, identifies gaps, and records traceable sources; bibliographic identifiers and database coverage serve different purposes.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 2,
+    "num": 7,
+    "q": "Which index is considered a measure of an author’s impact in a specialization?",
+    "options": [
+      "Total articles published",
+      "Hirsch index (h-index)",
+      "Views of the latest article",
+      "Downloads of all articles in one year"
+    ],
+    "correct": 1,
+    "explain": "Answer: Hirsch index (h-index). Literature searching and referencing should make prior work traceable, relevant, and useful for identifying gaps.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 2,
+    "num": 8,
+    "q": "Which are primary sources for a literature survey?",
+    "options": [
+      "Periodicals and research reports",
+      "Conference proceedings and official publications",
+      "Compilations and reviews",
+      "Directories and yearbooks"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": "Answer: Periodicals and research reports; Conference proceedings and official publications. A good literature survey locates prior work, identifies gaps, and records traceable sources; bibliographic identifiers and database coverage serve different purposes.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 2,
+    "num": 9,
+    "q": "Which are abstracting databases for systematic manual searches?",
+    "options": [
+      "INSPEC and COMPENDEX",
+      "PubMed",
+      "Wikipedia",
+      "Chemical Abstracts Service"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": "Answer: INSPEC and COMPENDEX; PubMed; Chemical Abstracts Service. A good literature survey locates prior work, identifies gaps, and records traceable sources; bibliographic identifiers and database coverage serve different purposes.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 2,
+    "num": 10,
+    "q": "Which resources are archival (valuable record) references for inclusion in a publication? (1) Uncited journal reference (2) Professional society website (3) Published article with journal/year/volume/pages (4) Newly launched journal article lacking year/ISSN (5) Accepted article with DOI (6) Book with ISBN",
+    "options": [
+      "Only 1, 2 and 3",
+      "Only 3, 5 and 6",
+      "Only 3, 4 and 6",
+      "Only 1, 2 and 5"
+    ],
+    "correct": 1,
+    "explain": "Answer: Only 3, 5 and 6. A good literature survey locates prior work, identifies gaps, and records traceable sources; bibliographic identifiers and database coverage serve different purposes.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 3,
+    "num": 1,
+    "q": "Which common sources in a laboratory or industrial environment can cause damage and require safety precautions?",
+    "options": [
+      "Sources of heat",
+      "Chemicals (acids, bases, etc.)",
+      "Pressurized gas cylinders",
+      "Electricity and water sources"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": "Answer: Sources of heat; Chemicals (acids, bases, etc.); Pressurized gas cylinders; Electricity and water sources. Reliable analysis depends on valid measurements, appropriate statistical reasoning, and checking model assumptions.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 3,
+    "num": 2,
+    "q": "Which statistic is used to quantify errors in parameter estimates?",
+    "options": [
+      "Mode",
+      "Skewness",
+      "Standard deviation",
+      "Median"
+    ],
+    "correct": 2,
+    "explain": "Answer: Standard deviation. Reliable conclusions require valid measurements and suitable statistical or signal-analysis methods; estimates and models should not be treated as error-free.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 3,
+    "num": 3,
+    "q": "A temperature sensor malfunctions and reports higher outlet-water temperatures. What conclusion is justified?",
+    "options": [
+      "The data are more useful because they vary",
+      "The data are unreliable because they do not represent the actual system",
+      "Predictive analysis can always correct the error exactly",
+      "None of these"
+    ],
+    "correct": 1,
+    "explain": "Answer: The data are unreliable because they do not represent the actual system. Reliable conclusions require valid measurements and suitable statistical or signal-analysis methods; estimates and models should not be treated as error-free.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 3,
+    "num": 4,
+    "q": "Which of the following can be treated as a deterministic signal?",
+    "options": [
+      "Measurements of atmospheric temperature",
+      "A sine wave corrupted by a rectangular pulse",
+      "Estimates of signals from measurements",
+      "None of the above"
+    ],
+    "correct": 1,
+    "explain": "Answer: A sine wave corrupted by a rectangular pulse. Reliable conclusions require valid measurements and suitable statistical or signal-analysis methods; estimates and models should not be treated as error-free.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 3,
+    "num": 5,
+    "q": "Identify the incorrect statements about nonlinear models.",
+    "options": [
+      "Linearization simply discards nonlinear terms",
+      "A Taylor-series linearized model changes with the nominal linearization point",
+      "A nonlinear model can never produce zero output for nonzero input",
+      "Linear models always have smaller estimation errors than nonlinear models"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": "Answer: Linearization simply discards nonlinear terms; A nonlinear model can never produce zero output for nonzero input; Linear models always have smaller estimation errors than nonlinear models. Reliable conclusions require valid measurements and suitable statistical or signal-analysis methods; estimates and models should not be treated as error-free.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 3,
+    "num": 6,
+    "q": "Which transform is used to detect periodic (oscillatory) components in a signal?",
+    "options": [
+      "Hilbert transform",
+      "Z-transform",
+      "Fourier transform",
+      "All of the above"
+    ],
+    "correct": 2,
+    "explain": "Answer: Fourier transform. Reliable conclusions require valid measurements and suitable statistical or signal-analysis methods; estimates and models should not be treated as error-free.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 3,
+    "num": 7,
+    "q": "What is the ratio of parameter-estimation errors for datasets with SNR 9 and 100?",
+    "options": [
+      "3:10",
+      "2:1",
+      "10:3",
+      "10:0.9"
+    ],
+    "correct": 2,
+    "explain": "Answer: 10:3. Reliable conclusions require valid measurements and suitable statistical or signal-analysis methods; estimates and models should not be treated as error-free.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 3,
+    "num": 8,
+    "q": "Which statement about a parameter estimate is true?",
+    "options": [
+      "It is generally close to the true value with high probability",
+      "Averaging a million records always equals the true value",
+      "Least squares always gives the lowest error",
+      "It is a mathematical function of the observations"
+    ],
+    "correct": 3,
+    "explain": "Answer: It is a mathematical function of the observations. Reliable conclusions require valid measurements and suitable statistical or signal-analysis methods; estimates and models should not be treated as error-free.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 3,
+    "num": 9,
+    "q": "Which statements about deterministic and random processes are true?",
+    "options": [
+      "Deterministic phenomena can be predicted accurately",
+      "Random processes occur randomly",
+      "A process can mix deterministic and stochastic effects",
+      "Random signals can never be negative"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explain": "Answer: Deterministic phenomena can be predicted accurately; A process can mix deterministic and stochastic effects. Reliable conclusions require valid measurements and suitable statistical or signal-analysis methods; estimates and models should not be treated as error-free.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 3,
+    "num": 10,
+    "q": "An estimator is most efficient when:",
+    "options": [
+      "It estimates parameters in the least time",
+      "It uses the fewest observations regardless of error",
+      "Its standard error is lowest relative to other estimators",
+      "It estimates accurately even with outliers"
+    ],
+    "correct": 2,
+    "explain": "Answer: Its standard error is lowest relative to other estimators. Reliable conclusions require valid measurements and suitable statistical or signal-analysis methods; estimates and models should not be treated as error-free.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 4,
+    "num": 1,
+    "q": "The paper title is “Battery design and its impact.” What are its weaknesses?",
+    "options": [
+      "It clearly identifies the research area",
+      "It clearly identifies what is unique",
+      "It does not clearly identify the research area",
+      "It does not indicate what is unique"
+    ],
+    "correct": [
+      2,
+      3
+    ],
+    "explain": "Answer: It does not clearly identify the research area; It does not indicate what is unique. Technical communication should be precise, readable, appropriately structured, and supported by suitable visuals.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 4,
+    "num": 2,
+    "q": "In images, which statement about magnification and resolution is correct?",
+    "options": [
+      "High magnification always implies high resolution",
+      "High magnification does not necessarily imply high resolution",
+      "Low magnification implies high resolution",
+      "High resolution implies low magnification"
+    ],
+    "correct": 1,
+    "explain": "Answer: High magnification does not necessarily imply high resolution. Technical communication should be precise and tailored to the reader; visuals, structure and wording must support rather than obscure the intended message.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 4,
+    "num": 3,
+    "q": "Tables are preferred over graphs:",
+    "options": [
+      "Always",
+      "Never",
+      "When exact values need to be indicated",
+      "When trends need to be indicated"
+    ],
+    "correct": 2,
+    "explain": "Answer: When exact values need to be indicated. Technical communication should be precise and tailored to the reader; visuals, structure and wording must support rather than obscure the intended message.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 4,
+    "num": 4,
+    "q": "The length of a document:",
+    "options": [
+      "Indicates how much you know",
+      "Indicates how little you know",
+      "Does not indicate anything about your knowledge",
+      "Does not indicate the reader’s knowledge"
+    ],
+    "correct": [
+      2,
+      3
+    ],
+    "explain": "Answer: Does not indicate anything about your knowledge; Does not indicate the reader’s knowledge. Technical communication should be precise and tailored to the reader; visuals, structure and wording must support rather than obscure the intended message.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 4,
+    "num": 5,
+    "q": "The title of a paper should indicate the area of work and what is unique about the work.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explain": "Answer: True. Technical communication should be precise and tailored to the reader; visuals, structure and wording must support rather than obscure the intended message.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 4,
+    "num": 6,
+    "q": "In scientific documents, sentences should be relatively short and to the point.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explain": "Answer: True. Technical communication should be precise and tailored to the reader; visuals, structure and wording must support rather than obscure the intended message.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 4,
+    "num": 7,
+    "q": "In an article, an image of a car engine must:",
+    "options": [
+      "Show the level of detail required for the discussion",
+      "Have a marker bar indicating scale",
+      "Be in colour, not black and white",
+      "Be in black and white, not colour"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": "Answer: Show the level of detail required for the discussion; Have a marker bar indicating scale. Technical communication should be precise and tailored to the reader; visuals, structure and wording must support rather than obscure the intended message.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 4,
+    "num": 8,
+    "q": "Strategies that can be used in the middle of a document include:",
+    "options": [
+      "Chronological strategy",
+      "Spatial strategy",
+      "Following a variable",
+      "Suspense strategy"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": "Answer: Chronological strategy; Spatial strategy; Following a variable. Technical communication should be precise and tailored to the reader; visuals, structure and wording must support rather than obscure the intended message.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 4,
+    "num": 9,
+    "q": "While working with electricity, only voltage poses a danger to users.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1,
+    "explain": "Answer: False. Technical communication should be precise and tailored to the reader; visuals, structure and wording must support rather than obscure the intended message.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 4,
+    "num": 10,
+    "q": "In “Pouring rain results in clogged drains, and slippery roads. These clogged drains spill further water on to the roads,” the word “these” is ambiguous.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explain": "Answer: True. Technical communication should be precise and tailored to the reader; visuals, structure and wording must support rather than obscure the intended message.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 5,
+    "num": 1,
+    "q": "According to Sternberg’s theories, practical intelligence relates to:",
+    "options": [
+      "How one relates to the environment",
+      "How street-smart one is",
+      "How well one comes up with new theories",
+      "How well one solves new problems"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": "Answer: How one relates to the environment; How street-smart one is. Creative research combines broad knowledge, fresh approaches and sound collaboration; responsible authorship and manageable stress support good research practice.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 5,
+    "num": 2,
+    "q": "Collaborators publish results independently without agreement. Is this ethical?",
+    "options": [
+      "Yes, because they collaborated",
+      "No, all authors should know and agree with the publication",
+      "Yes, if collaborators are junior",
+      "No, only if authors are senior"
+    ],
+    "correct": 1,
+    "explain": "Answer: No, all authors should know and agree with the publication. Creative research combines broad knowledge, fresh approaches and sound collaboration; responsible authorship and manageable stress support good research practice.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 5,
+    "num": 3,
+    "q": "Creativity is seen in:",
+    "options": [
+      "Drama",
+      "Science fiction",
+      "Engineering",
+      "All of the above"
+    ],
+    "correct": 3,
+    "explain": "Answer: All of the above. Creative research combines broad knowledge, fresh approaches and sound collaboration; responsible authorship and manageable stress support good research practice.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 5,
+    "num": 4,
+    "q": "A good researcher is often well-read in many areas.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explain": "Answer: True. Creative research combines broad knowledge, fresh approaches and sound collaboration; responsible authorship and manageable stress support good research practice.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 5,
+    "num": 5,
+    "q": "We can work to the best of our potential when we are:",
+    "options": [
+      "Hypo-stressed",
+      "Eustressed",
+      "Hyper-stressed",
+      "Distressed"
+    ],
+    "correct": 1,
+    "explain": "Answer: Eustressed. Creative research combines broad knowledge, fresh approaches and sound collaboration; responsible authorship and manageable stress support good research practice.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 5,
+    "num": 6,
+    "q": "A successful researcher’s work should be:",
+    "options": [
+      "Recognized by peers internationally",
+      "Typically published in peer-reviewed journals",
+      "Mentioned in the campus magazine",
+      "Discussed only in a department meeting"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": "Answer: Recognized by peers internationally; Typically published in peer-reviewed journals. Creative research combines broad knowledge, fresh approaches and sound collaboration; responsible authorship and manageable stress support good research practice.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 5,
+    "num": 7,
+    "q": "Creative people are:",
+    "options": [
+      "More likely to follow societal restrictions",
+      "Less likely to follow societal restrictions",
+      "More likely to think only within previous work",
+      "More likely to find surprisingly new solutions"
+    ],
+    "correct": [
+      1,
+      3
+    ],
+    "explain": "Answer: Less likely to follow societal restrictions; More likely to find surprisingly new solutions. Creativity benefits from broad knowledge and new approaches, while research ethics requires responsible collaboration.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 5,
+    "num": 8,
+    "q": "A PhD usually makes you:",
+    "options": [
+      "A specialist in one narrow area",
+      "A person who conducts experiments quickly",
+      "A person with broad knowledge across topics",
+      "A person who makes excellent sketches"
+    ],
+    "correct": 0,
+    "explain": "Answer: A specialist in one narrow area. Research-based study relies on independent inquiry and learning to make decisions; advisers guide and support rather than prescribe every step.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 5,
+    "num": 9,
+    "q": "To become a good researcher, one usually needs:",
+    "options": [
+      "Good communication skills",
+      "Mastery of specific techniques",
+      "A clear line of investigation",
+      "Awareness of recent advances"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": "Answer: Good communication skills; Mastery of specific techniques; A clear line of investigation; Awareness of recent advances. Creative research combines broad knowledge, fresh approaches and sound collaboration; responsible authorship and manageable stress support good research practice.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 5,
+    "num": 10,
+    "q": "A fully professional researcher typically:",
+    "options": [
+      "Has fundamental concepts of interest to peers",
+      "Has command of their area",
+      "Recognizes where they can contribute significantly",
+      "Works without focusing on literature"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": "Answer: Has fundamental concepts of interest to peers; Has command of their area; Recognizes where they can contribute significantly. Creative research combines broad knowledge, fresh approaches and sound collaboration; responsible authorship and manageable stress support good research practice.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 6,
+    "num": 1,
+    "q": "Which of the following falls in the category of intellectual property?",
+    "options": [
+      "An original set of ideas or research results",
+      "Ideas originating from real property",
+      "Properties emanating from human creative labour",
+      "All of the above"
+    ],
+    "correct": 3,
+    "explain": "Answer: All of the above. The correct answer depends on the type of creation and the legal right involved; patents, copyright and trade marks protect different subject matter.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 6,
+    "num": 2,
+    "q": "Violations of Intellectual Property Rights lead to:",
+    "options": [
+      "Infringement",
+      "Casual penalties",
+      "A general licence to do whatever one wants",
+      "None of the above"
+    ],
+    "correct": 0,
+    "explain": "Answer: Infringement. The correct answer depends on the type of creation and the legal right involved; patents, copyright and trade marks protect different subject matter.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 6,
+    "num": 3,
+    "q": "For which type of intellectual property protection is registration generally not required?",
+    "options": [
+      "Copyrights",
+      "Patents",
+      "Designs",
+      "Geographical indications"
+    ],
+    "correct": 0,
+    "explain": "Answer: Copyrights. The correct answer depends on the type of creation and the legal right involved; patents, copyright and trade marks protect different subject matter.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 6,
+    "num": 4,
+    "q": "A person invents a new process to capture musical performance on tape. They would most likely apply for:",
+    "options": [
+      "Copyrights",
+      "Trade marks",
+      "Patents",
+      "Trade secret"
+    ],
+    "correct": 2,
+    "explain": "Answer: Patents. Choose the intellectual-property right that matches the creation and the applicable legal conditions.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 6,
+    "num": 5,
+    "q": "Use of an unregistered trade mark of a competitor amounts to the tort of:",
+    "options": [
+      "Deceit",
+      "Fraud",
+      "Negligence",
+      "Passing off"
+    ],
+    "correct": 3,
+    "explain": "Answer: Passing off. The correct answer depends on the type of creation and the legal right involved; patents, copyright and trade marks protect different subject matter.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 6,
+    "num": 6,
+    "q": "What does an intellectual property right entitle a person to?",
+    "options": [
+      "File a suit in case of infringement",
+      "Right of excludability",
+      "Commercial exploitation",
+      "All of the above"
+    ],
+    "correct": 3,
+    "explain": "Answer: All of the above. The correct answer depends on the type of creation and the legal right involved; patents, copyright and trade marks protect different subject matter.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 6,
+    "num": 7,
+    "q": "The Reebok Delta symbol and Hyundai logo are protected by:",
+    "options": [
+      "Patents",
+      "Trade marks",
+      "Trade dress",
+      "Geographical indications"
+    ],
+    "correct": 1,
+    "explain": "Answer: Trade marks. The correct answer depends on the type of creation and the legal right involved; patents, copyright and trade marks protect different subject matter.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 6,
+    "num": 8,
+    "q": "Under the Patents Act, 1970, who is entitled to receive a patent on a new invention?",
+    "options": [
+      "The person who invented it first",
+      "The person who commercialised it first",
+      "The person who thought of it first",
+      "The person who filed a patent application first"
+    ],
+    "correct": 3,
+    "explain": "Answer: The person who filed a patent application first. The correct answer depends on the type of creation and the legal right involved; patents, copyright and trade marks protect different subject matter.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 6,
+    "num": 9,
+    "q": "What is the term of a patent in India?",
+    "options": [
+      "20 years",
+      "25 years",
+      "10 years",
+      "15 years"
+    ],
+    "correct": 0,
+    "explain": "Answer: 20 years. The correct answer depends on the type of creation and the legal right involved; patents, copyright and trade marks protect different subject matter.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 6,
+    "num": 10,
+    "q": "What is the full form of TRIPS?",
+    "options": [
+      "Tariff Related Aspects of Intellectual Properties",
+      "Trade Related Aspects of Intellectual Property Science",
+      "The Registration of Intellectual Property",
+      "Trade Related Aspects of Intellectual Property Rights"
+    ],
+    "correct": 3,
+    "explain": "Answer: Trade Related Aspects of Intellectual Property Rights. The correct answer depends on the type of creation and the legal right involved; patents, copyright and trade marks protect different subject matter.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 7,
+    "num": 1,
+    "q": "In a true experimental research design:",
+    "options": [
+      "There is no control on external variables",
+      "There is less control on external variables",
+      "External variables are controlled by randomization",
+      "Randomization is not used"
+    ],
+    "correct": 2,
+    "explain": "Answer: External variables are controlled by randomization. Experimental design controls and varies factors systematically so researchers can study responses, estimate variability and draw defensible conclusions.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 7,
+    "num": 2,
+    "q": "Which is an incomplete experimental research design?",
+    "options": [
+      "Before-and-after with control group design",
+      "Factorial design",
+      "One-group before-after design",
+      "Latin square design"
+    ],
+    "correct": 2,
+    "explain": "Answer: One-group before-after design. Experimental design controls and varies factors systematically so researchers can study responses, estimate variability and draw defensible conclusions.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 7,
+    "num": 3,
+    "q": "The coefficient of determination is unity when:",
+    "options": [
+      "Error sum of squares is zero",
+      "Total sum of squares is zero",
+      "Regression sum of squares is zero",
+      "Regression sum of squares equals total sum of squares"
+    ],
+    "correct": 0,
+    "explain": "Answer: Error sum of squares is zero. Reliable conclusions require valid measurements and suitable statistical or signal-analysis methods; estimates and models should not be treated as error-free.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 7,
+    "num": 4,
+    "q": "A probability density function describes:",
+    "options": [
+      "Probability of a phenomenon at macro scale",
+      "Probability of a phenomenon at micro scale",
+      "Distribution of probabilities over a continuous random-variable domain",
+      "Probabilities over undefined variables"
+    ],
+    "correct": 2,
+    "explain": "Answer: Distribution of probabilities over a continuous random-variable domain. Reliable conclusions require valid measurements and suitable statistical or signal-analysis methods; estimates and models should not be treated as error-free.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 7,
+    "num": 5,
+    "q": "In two-factor response-surface canonical analysis, a maximum response occurs when eigenvalues of the B matrix are:",
+    "options": [
+      "All positive",
+      "All negative",
+      "All zero",
+      "One positive and one negative"
+    ],
+    "correct": 1,
+    "explain": "Answer: All negative. Experimental design controls and varies factors systematically so researchers can study responses, estimate variability and draw defensible conclusions.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 7,
+    "num": 6,
+    "q": "Experiments are conducted in laboratories to:",
+    "options": [
+      "Verify scientific predictions",
+      "Obtain trends when theory is not known",
+      "Find effects of variables on a desired response",
+      "All of the above"
+    ],
+    "correct": 3,
+    "explain": "Answer: All of the above. Experimental design controls and varies factors systematically so researchers can study responses, estimate variability and draw defensible conclusions.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 7,
+    "num": 7,
+    "q": "SPC and Design of Experiments are very closely interrelated.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explain": "Answer: True. Experimental design controls and varies factors systematically so researchers can study responses, estimate variability and draw defensible conclusions.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 7,
+    "num": 8,
+    "q": "Which is NOT an application of experimental design in engineering design?",
+    "options": [
+      "Compare basic design configurations",
+      "Evaluate material alternatives",
+      "Evaluate key product design parameters affecting performance",
+      "Evaluate the correct process to develop a product"
+    ],
+    "correct": 3,
+    "explain": "Answer: Evaluate the correct process to develop a product. Experimental design controls and varies factors systematically so researchers can study responses, estimate variability and draw defensible conclusions.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 7,
+    "num": 9,
+    "q": "The average estimated from a data collection is 50 cm. Which quantities have the same units as the data?",
+    "options": [
+      "Standard deviation",
+      "Median",
+      "Mode",
+      "All of the above"
+    ],
+    "correct": 3,
+    "explain": "Answer: All of the above. LLM outputs depend on context and learned representations; retrieval can add context and alignment can shape behaviour, but neither removes the need to verify important claims.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 7,
+    "num": 10,
+    "q": "What is the mean of {1, −1, −1, 1, 1, −1}?",
+    "options": [
+      "−1",
+      "0",
+      "1",
+      "3"
+    ],
+    "correct": 1,
+    "explain": "Answer: 0. Reliable conclusions require valid measurements and suitable statistical or signal-analysis methods; estimates and models should not be treated as error-free.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 8,
+    "num": 1,
+    "q": "To pursue research, which is required first?",
+    "options": [
+      "Developing a research design",
+      "Formulating a research question",
+      "Deciding the data-analysis procedure",
+      "Formulating a research hypothesis"
+    ],
+    "correct": 1,
+    "explain": "Answer: Formulating a research question. Research design starts from a clear question and uses appropriate methods, sources, and disciplinary perspectives.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 8,
+    "num": 2,
+    "q": "Which statement is false in the context of participatory research?",
+    "options": [
+      "It recognizes knowledge as power",
+      "It is a collective process of inquiry",
+      "It emphasizes people as experts",
+      "Its sole purpose is the production of knowledge"
+    ],
+    "correct": 3,
+    "explain": "Answer: Its sole purpose is the production of knowledge. A sound research plan begins with a meaningful question and uses appropriate methods, sources and disciplinary perspectives to answer it.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 8,
+    "num": 3,
+    "q": "How should the depth of research be judged?",
+    "options": [
+      "By research title",
+      "By research duration",
+      "By research objectives",
+      "By total expenditure"
+    ],
+    "correct": 2,
+    "explain": "Answer: By research objectives. Research design starts from a clear question and uses appropriate methods, sources, and disciplinary perspectives.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 8,
+    "num": 4,
+    "q": "What is the main aim of interdisciplinary research?",
+    "options": [
+      "Oversimplify the research problem",
+      "Integrate knowledge from multiple disciplines to solve a problem",
+      "Create a new trend in methodology",
+      "Reduce emphasis on a single subject"
+    ],
+    "correct": 1,
+    "explain": "Answer: Integrate knowledge from multiple disciplines to solve a problem. A sound research plan begins with a meaningful question and uses appropriate methods, sources and disciplinary perspectives to answer it.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 8,
+    "num": 5,
+    "q": "Electron microscopes can be used in reverse to write in extremely small areas.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explain": "Answer: True. Research design starts from a clear question and uses appropriate methods, sources, and disciplinary perspectives.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 8,
+    "num": 6,
+    "q": "Which are the core elements of a dissertation?",
+    "options": [
+      "Introduction, data collection, analysis, conclusions and recommendations",
+      "Executive summary, literature review, data, conclusions, bibliography",
+      "Research plan, data, analysis and references",
+      "Introduction, literature review, methodology, results, discussion and conclusions"
+    ],
+    "correct": 3,
+    "explain": "Answer: Introduction, literature review, methodology, results, discussion and conclusions. A sound research plan begins with a meaningful question and uses appropriate methods, sources and disciplinary perspectives to answer it.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 8,
+    "num": 7,
+    "q": "How can a research objective be enhanced?",
+    "options": [
+      "Make it more valid",
+      "Make it more reliable",
+      "Make it more impartial",
+      "All of the above"
+    ],
+    "correct": 3,
+    "explain": "Answer: All of the above. A sound research plan begins with a meaningful question and uses appropriate methods, sources and disciplinary perspectives to answer it.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 8,
+    "num": 8,
+    "q": "A common test in research demands much priority on:",
+    "options": [
+      "Reliability",
+      "Useability",
+      "Objectivity",
+      "All of the above"
+    ],
+    "correct": 3,
+    "explain": "Answer: All of the above. Research design starts from a clear question and uses appropriate methods, sources, and disciplinary perspectives.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 8,
+    "num": 9,
+    "q": "An appropriate source to find descriptive information is:",
+    "options": [
+      "Bibliography",
+      "Directory",
+      "Encyclopedia",
+      "Dictionary"
+    ],
+    "correct": 2,
+    "explain": "Answer: Encyclopedia. A sound research plan begins with a meaningful question and uses appropriate methods, sources and disciplinary perspectives to answer it.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 8,
+    "num": 10,
+    "q": "Mahabalipuram in south-east India is pre-eminently testimony to which civilization?",
+    "options": [
+      "Pallavas",
+      "Mauryas",
+      "Guptas",
+      "Cholas"
+    ],
+    "correct": 0,
+    "explain": "Answer: Pallavas. A sound research plan begins with a meaningful question and uses appropriate methods, sources and disciplinary perspectives to answer it.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 9,
+    "num": 1,
+    "q": "Which characteristics distinguish a research programme from a regular curriculum-oriented programme?",
+    "options": [
+      "The research question may need extensive exploration before being well defined",
+      "Experimental outcomes may deviate from expectations and require changes in approach",
+      "The programme follows a highly predictable schedule with fixed outcomes at every stage",
+      "Researchers may formulate new questions as insights emerge"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": "Answer: The research question may need extensive exploration before being well defined; Experimental outcomes may deviate from expectations and require changes in approach; Researchers may formulate new questions as insights emerge. Research-based study relies on independent inquiry and learning to make decisions; advisers guide and support rather than prescribe every step.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 9,
+    "num": 2,
+    "q": "The lecture compares the research journey to a roller-coaster ride primarily because:",
+    "options": [
+      "Researchers must work continuously under high pressure",
+      "Research follows predictable stages and unavoidable exams",
+      "Research alternates between progress, uncertainty, setbacks, breakthroughs and renewed progress",
+      "Research depends mainly on collaboration with many researchers"
+    ],
+    "correct": 2,
+    "explain": "Answer: Research alternates between progress, uncertainty, setbacks, breakthroughs and renewed progress. Research involves uncertainty and emotion as well as technical work; reflection, support and sustainable routines help researchers respond constructively to setbacks.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 9,
+    "num": 3,
+    "q": "Which factors can contribute to a scholar’s overall laboratory research experience?",
+    "options": [
+      "Relationships with advisers and labmates",
+      "Emotional experiences and friendships",
+      "Availability of research facilities",
+      "Support from friends and family"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": "Answer: Relationships with advisers and labmates; Emotional experiences and friendships; Availability of research facilities; Support from friends and family. Experimental design controls and varies factors systematically so researchers can study responses, estimate variability and draw defensible conclusions.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 9,
+    "num": 4,
+    "q": "Which practices help maintain a sustainable rhythm in research life?",
+    "options": [
+      "Adequate sleep and physical activity",
+      "Time for recreation and renewal",
+      "Periodic reflection on activities and decisions",
+      "Working extremely long hours whenever a problem arises"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": "Answer: Adequate sleep and physical activity; Time for recreation and renewal; Periodic reflection on activities and decisions. Research involves uncertainty and emotion as well as technical work; reflection, support and sustainable routines help researchers respond constructively to setbacks.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 9,
+    "num": 5,
+    "q": "A researcher feels angry and inadequate after harsh feedback. What is the most appropriate immediate response?",
+    "options": [
+      "Immediately defend the research",
+      "Suppress the emotion and continue without reflection",
+      "Pause, recognize the emotion, regulate it (e.g. rhythmic breathing), then respond clearly",
+      "Discuss the adviser’s behaviour with all labmates immediately"
+    ],
+    "correct": 2,
+    "explain": "Answer: Pause, recognize the emotion, regulate it (e.g. rhythmic breathing), then respond clearly. A sustainable research journey includes emotional regulation, reflection, appropriate support, and iterative problem-solving.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 9,
+    "num": 6,
+    "q": "Which strategies are discussed for processing or reducing intense anger?",
+    "options": [
+      "Rhythmic breathing",
+      "Temporarily stepping away from the situation",
+      "Journaling feelings",
+      "Immediately confronting the person who triggered it"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": "Answer: Rhythmic breathing; Temporarily stepping away from the situation; Journaling feelings. Technical communication should be precise and tailored to the reader; visuals, structure and wording must support rather than obscure the intended message.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 9,
+    "num": 7,
+    "q": "A scholar feels discouraged after a labmate’s paper is accepted. Which response best reflects the lecture?",
+    "options": [
+      "Conclude the labmate is more capable",
+      "Suppress comparison without examining it",
+      "Turn comparison into curiosity and identify possible improvements",
+      "Avoid the labmate until one’s own paper is accepted"
+    ],
+    "correct": 2,
+    "explain": "Answer: Turn comparison into curiosity and identify possible improvements. Research involves uncertainty and emotion as well as technical work; reflection, support and sustainable routines help researchers respond constructively to setbacks.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 9,
+    "num": 8,
+    "q": "Prolonged emotional distress or isolation can negatively affect:",
+    "options": [
+      "Research progress",
+      "Only the publication record",
+      "Physical health",
+      "Friendships and social relationships"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": "Answer: Research progress; Physical health; Friendships and social relationships. Research involves uncertainty and emotion as well as technical work; reflection, support and sustainable routines help researchers respond constructively to setbacks.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 9,
+    "num": 9,
+    "q": "A researcher works very long hours and withdraws from others when stuck. What is the primary concern?",
+    "options": [
+      "It proves insufficient commitment to independent research",
+      "Emotional isolation and overwork can worsen wellbeing and hinder sustainable progress",
+      "It guarantees faster publication",
+      "It removes the need to seek help"
+    ],
+    "correct": 1,
+    "explain": "Answer: Emotional isolation and overwork can worsen wellbeing and hinder sustainable progress. Research involves uncertainty and emotion as well as technical work; reflection, support and sustainable routines help researchers respond constructively to setbacks.",
+    "source": "Uploaded assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 9,
+    "num": 10,
+    "q": "Which of the following constitute potential support systems for a research scholar according to the lecture?",
+    "options": [
+      "Adviser or supervisor",
+      "Labmates and friends",
+      "Mentor",
+      "Family or old friends"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": "Answer: Adviser/supervisor, labmates/friends, mentor, and family/old friends. A research scholar can draw on several appropriate support systems; research is self-directed but not isolated.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 11,
+    "num": 1,
+    "q": "Arthur Samuel’s checkers program illustrates an early form of machine learning. Which statements are correct?",
+    "options": [
+      "Every possible strategy was explicitly programmed",
+      "The machine learned through experience by repeatedly playing",
+      "The example is associated with early reinforcement learning",
+      "Machine learning began only with generative AI"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explain": "Answer: The machine learned through experience by repeatedly playing; The example is associated with early reinforcement learning. LLM outputs depend on context and learned representations; retrieval can add context and alignment can shape behaviour, but neither removes the need to verify important claims.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 11,
+    "num": 2,
+    "q": "Which statements reflect the lecture’s discussion of classical AI and generative AI?",
+    "options": [
+      "Generative AI is the only suitable approach to modern research",
+      "Classical AI can still solve domain-specific problems effectively",
+      "Choose an AI approach based on the problem, not a blanket preference for generative AI",
+      "Classical AI became irrelevant after LLMs emerged"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explain": "Answer: Classical AI can still solve domain-specific problems effectively; Choose an AI approach based on the problem, not a blanket preference for generative AI. LLM outputs depend on context and learned representations; retrieval can add context and alignment can shape behaviour, but neither removes the need to verify important claims.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 11,
+    "num": 3,
+    "q": "An LLM predicts the next token from context. Which statements are correct?",
+    "options": [
+      "Token probability can depend on preceding context",
+      "The highest-probability token must always be generated",
+      "Different contexts can yield different next-token distributions",
+      "Repeated token prediction can construct a longer response"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": "Answer: Token probability can depend on preceding context; Different contexts can yield different next-token distributions; Repeated token prediction can construct a longer response. LLM outputs depend on context and learned representations; retrieval can add context and alignment can shape behaviour, but neither removes the need to verify important claims.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 11,
+    "num": 4,
+    "q": "Which statements distinguish token/vocabulary size, context size and parameter count?",
+    "options": [
+      "Token size relates to the vocabulary of words or subwords the model can generate",
+      "Context size concerns how much preceding token information is considered",
+      "Parameter count is the number of tokens stored in a prompt",
+      "Parameters represent learned distributions/relationships in the model"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": "Answer: Token size relates to the vocabulary of words or subwords the model can generate; Context size concerns how much preceding token information is considered; Parameters represent learned distributions/relationships in the model. LLM outputs depend on context and learned representations; retrieval can add context and alignment can shape behaviour, but neither removes the need to verify important claims.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 11,
+    "num": 5,
+    "q": "Which statements describe vector representations in an LLM?",
+    "options": [
+      "A large probability space can be represented in a smaller-dimensional vector space",
+      "Different contexts may map to nearby locations",
+      "Compression/overlap can contribute to variability and errors",
+      "Every context is an independent point with no overlap"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": "Answer: A large probability space can be represented in a smaller-dimensional vector space; Different contexts may map to nearby locations; Compression/overlap can contribute to variability and errors. LLM outputs depend on context and learned representations; retrieval can add context and alignment can shape behaviour, but neither removes the need to verify important claims.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 11,
+    "num": 6,
+    "q": "Which statements are consistent with the lecture’s explanation of alignment?",
+    "options": [
+      "Alignment can modify model behaviour toward desired outcomes",
+      "Goals may include factuality, bias reduction or local context",
+      "Alignment guarantees every output is factually correct",
+      "Reinforcement learning from human preferences is associated with alignment"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": "Answer: Alignment can modify model behaviour toward desired outcomes; Goals may include factuality, bias reduction or local context; Reinforcement learning from human preferences is associated with alignment. LLM outputs depend on context and learned representations; retrieval can add context and alignment can shape behaviour, but neither removes the need to verify important claims.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 11,
+    "num": 7,
+    "q": "A researcher retrieves relevant internal documents and adds them to an ambiguous query. Which statements describe this approach?",
+    "options": [
+      "It is consistent with retrieval-augmented generation (RAG)",
+      "Retrieved information provides extra context",
+      "It necessarily requires retraining the whole language model",
+      "Extra context can make the response more focused"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": "Answer: It is consistent with retrieval-augmented generation (RAG); Retrieved information provides extra context; Extra context can make the response more focused. LLMs generate token sequences from context; retrieval and alignment can help but do not guarantee truth, so verification remains essential.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 11,
+    "num": 8,
+    "q": "The lecture uses the 2011 ICC World Cup to explain RAG. Which ideas are correct?",
+    "options": [
+      "Retrieved information can contextualize an ambiguous query",
+      "The query can be reframed with relevant context",
+      "RAG primarily increases the number of model parameters",
+      "Richer context can increase the chance of the intended response"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": "Answer: Retrieved information can contextualize an ambiguous query; The query can be reframed with relevant context; Richer context can increase the chance of the intended response. LLM outputs depend on context and learned representations; retrieval can add context and alignment can shape behaviour, but neither removes the need to verify important claims.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 11,
+    "num": 9,
+    "q": "Which statements about hallucination are correct?",
+    "options": [
+      "A plausible answer may not match ground truth",
+      "Hallucination can occur with insufficiently represented information or context",
+      "More context can reduce but not necessarily eliminate hallucinations",
+      "Hallucination means the model deliberately chose to lie"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": "Answer: A plausible answer may not match ground truth; Hallucination can occur with insufficiently represented information or context; More context can reduce but not necessarily eliminate hallucinations. LLM outputs depend on context and learned representations; retrieval can add context and alignment can shape behaviour, but neither removes the need to verify important claims.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 11,
+    "num": 10,
+    "q": "A model gives a misleading recommendation because its learned information included a false article. Which statements are appropriate?",
+    "options": [
+      "This is necessarily hallucination",
+      "AI systems can propagate misinformation from information sources",
+      "A response can mislead without being simply an invented fact",
+      "Important AI-generated information should be independently verified"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explain": "Answer: AI systems can propagate misinformation from information sources; A response can mislead without being simply an invented fact; Important AI-generated information should be independently verified. LLM outputs depend on context and learned representations; retrieval can add context and alignment can shape behaviour, but neither removes the need to verify important claims.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 12,
+    "num": 1,
+    "q": "Which statements distinguish course-based education from research-based education?",
+    "options": [
+      "Course-based education focuses on existing knowledge; PhD research is expected to create new knowledge",
+      "A PhD follows the same prescribed syllabus as a course-based degree",
+      "Course-based education generally has a prescribed syllabus; research-based education does not simply follow a fixed syllabus",
+      "Course-based education never involves learning new knowledge"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explain": "Answer: Course-based education focuses on existing knowledge; PhD research is expected to create new knowledge; Course-based education generally has a prescribed syllabus; research-based education does not simply follow a fixed syllabus. Research-based study relies on independent inquiry and learning to make decisions; advisers guide and support rather than prescribe every step.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 12,
+    "num": 2,
+    "q": "A PhD scholar expects a research guide to provide a complete step-by-step procedure. Which responses fit the lecture?",
+    "options": [
+      "PhD research involves substantially self-directed work",
+      "The absence of a fixed syllabus means guidance is unnecessary",
+      "The guide can provide support when ambiguity or difficulty arises",
+      "The scholar should develop the ability to decide how research progresses"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": "Answer: PhD research involves substantially self-directed work; The guide can provide support when ambiguity or difficulty arises; The scholar should develop the ability to decide how research progresses. Research-based study relies on independent inquiry and learning to make decisions; advisers guide and support rather than prescribe every step.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 12,
+    "num": 3,
+    "q": "Which conditions are relevant to treating a proposed statement as a scientific hypothesis?",
+    "options": [
+      "It is an educated prediction, not an already established truth",
+      "It allows the possibility of being disproved",
+      "It is protected from contradictory observations using untestable explanations",
+      "Its truth must be established before experiments begin"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": "Answer: It is an educated prediction, not an already established truth; It allows the possibility of being disproved. Research questions and hypotheses should be refined using observations and literature; falsifiability, higher-order thinking and flexible framing support discovery.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 12,
+    "num": 4,
+    "q": "For the hypothesis “All swans are white,” which statements fit the falsifiability example?",
+    "options": [
+      "Finding a black swan could disprove it",
+      "Every swan in the world must be observed before examining it scientifically",
+      "The possibility of disproof is central to the criterion",
+      "The criterion emphasizes possible disproof rather than permanent proof"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": "Answer: Finding a black swan could disprove it; The possibility of disproof is central to the criterion; The criterion emphasizes possible disproof rather than permanent proof. Research questions and hypotheses should be refined using observations and literature; falsifiability, higher-order thinking and flexible framing support discovery.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 12,
+    "num": 5,
+    "q": "Before arriving at a testable hypothesis from a broad PhD topic, what is appropriate?",
+    "options": [
+      "Form relevant questions and consider why the topic matters",
+      "Start an unrestricted literature survey as the only route",
+      "Use literature and observations to refine questions iteratively",
+      "Form the final hypothesis immediately without exploration"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explain": "Answer: Form relevant questions and consider why the topic matters; Use literature and observations to refine questions iteratively. Research-based study relies on independent inquiry and learning to make decisions; advisers guide and support rather than prescribe every step.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 12,
+    "num": 6,
+    "q": "In the obesity/eating-habit example, which statements are supported?",
+    "options": [
+      "An anomaly can arise when observations conflict with a common explanation",
+      "The amount of food offered can motivate further investigation",
+      "The hypothesis was formed without literature or observations",
+      "A missing link or contradiction can suggest further research and a hypothesis"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": "Answer: An anomaly can arise when observations conflict with a common explanation; The amount of food offered can motivate further investigation; A missing link or contradiction can suggest further research and a hypothesis. Research questions and hypotheses should be refined using observations and literature; falsifiability, higher-order thinking and flexible framing support discovery.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 12,
+    "num": 7,
+    "q": "According to Revised Bloom’s Taxonomy, which statements are correct?",
+    "options": [
+      "Remember, Understand and Apply are lower-order levels",
+      "Analyze, Evaluate and Create are higher-order levels",
+      "Create is below Remember",
+      "Everyone experiences the same difficulty at all six levels"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": "Answer: Remember, Understand and Apply are lower-order levels; Analyze, Evaluate and Create are higher-order levels. Research questions and hypotheses should be refined using observations and literature; falsifiability, higher-order thinking and flexible framing support discovery.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 12,
+    "num": 8,
+    "q": "A PhD scholar collects data, examines patterns, considers hypotheses and develops a new idea. Which Bloom’s levels are represented?",
+    "options": [
+      "Analyze",
+      "Evaluate",
+      "Remember",
+      "Create"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": "Answer: Analyze; Evaluate; Create. Research-based study relies on independent inquiry and learning to make decisions; advisers guide and support rather than prescribe every step.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 12,
+    "num": 9,
+    "q": "Which statements reflect higher-order thinking in PhD research?",
+    "options": [
+      "All six thinking levels may be used in research problem solving",
+      "Analysis is important because researchers collect and analyze data",
+      "A PhD mainly focuses on memorizing existing knowledge",
+      "Evaluation may involve considering and validating alternative hypotheses"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": "Answer: All six thinking levels may be used in research problem solving; Analysis is important because researchers collect and analyze data; Evaluation may involve considering and validating alternative hypotheses. Research-based study relies on independent inquiry and learning to make decisions; advisers guide and support rather than prescribe every step.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 12,
+    "num": 10,
+    "q": "Which statements are consistent with creativity and functional fixedness?",
+    "options": [
+      "Creative thinking can improve with practice",
+      "Functional fixedness limits seeing objects beyond conventional use",
+      "Complete knowledge guarantees creation of something new",
+      "Functional fixedness helps generate new approaches to novel challenges"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": "Answer: Creative thinking can improve with practice; Functional fixedness limits seeing objects beyond conventional use. Creative research combines broad knowledge, fresh approaches and sound collaboration; responsible authorship and manageable stress support good research practice.",
+    "source": "Uploaded assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 10,
+    "num": 1,
+    "q": "Students in schools typically expect:",
+    "options": [
+      "Well-defined questions",
+      "Question paper patterns to be finalized in advance",
+      "Clarity on the portions for an exam",
+      "Questions outside the syllabus"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": "The screenshot's accepted answer includes well-defined questions, predictable question-paper patterns, and clarity about exam portions.",
+    "source": "User-supplied Week 10 assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 10,
+    "num": 2,
+    "q": "From the perspective of a school student, the question “How long will it take to go from Chennai to Kolkata?” is:",
+    "options": [
+      "A “poorly” defined question",
+      "A well-defined question",
+      "Typically how a full question is framed in an exam",
+      "Has a unique answer"
+    ],
+    "correct": 0,
+    "explain": "The screenshot marks “A ‘poorly’ defined question” as the accepted answer. The question lacks enough constraints for one precise answer.",
+    "source": "User-supplied Week 10 assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 10,
+    "num": 3,
+    "q": "The format of exams in schools:",
+    "options": [
+      "Helps you understand fundamentals",
+      "Teaches you to break down a problem into parts and solve them",
+      "Prepares you for a professional setting",
+      "Teaches you to handle unexpected questions"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": "The accepted answer shown includes understanding fundamentals, breaking problems into parts, and preparation for a professional setting.",
+    "source": "User-supplied Week 10 assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 10,
+    "num": 4,
+    "q": "A typical professional workplace requires you to:",
+    "options": [
+      "Handle open-ended questions",
+      "Solve “poorly” defined problems",
+      "Focus on syllabus",
+      "Work within a question-paper pattern"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": "The screenshot marks handling open-ended questions and solving poorly defined problems.",
+    "source": "User-supplied Week 10 assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 10,
+    "num": 5,
+    "q": "Learning in college is expected to:",
+    "options": [
+      "Prepare you for professional life",
+      "Focus only on well-defined problems",
+      "Teach you to handle open-ended problems",
+      "Follow the same approach used in school"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explain": "The screenshot's accepted answer includes preparation for professional life and learning to handle open-ended problems.",
+    "source": "User-supplied Week 10 assignment screenshot",
+    "multi": true
+  },
+  {
+    "week": 10,
+    "num": 6,
+    "q": "Applying a known theory to one additional new situation is most likely:",
+    "options": [
+      "Breakthrough research",
+      "Incremental research",
+      "Transformational research",
+      "An important contribution to research"
+    ],
+    "correct": 1,
+    "explain": "The screenshot marks incremental research.",
+    "source": "User-supplied Week 10 assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 10,
+    "num": 7,
+    "q": "Use of a series of experimental techniques to study the same phenomenon across different samples is typically an example of:",
+    "options": [
+      "Systematic research",
+      "Transformational research",
+      "Incremental research",
+      "Breakthrough research"
+    ],
+    "correct": 0,
+    "explain": "The screenshot marks systematic research.",
+    "source": "User-supplied Week 10 assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 10,
+    "num": 8,
+    "q": "In the development of phones, which of the following can be considered transformational?",
+    "options": [
+      "First deployment of the landline",
+      "First deployment of the cordless phone",
+      "The improvement from cordless phone to mobile phone",
+      "Making the first-generation mobile phones smaller and more colourful"
+    ],
+    "correct": 2,
+    "explain": "The screenshot marks the improvement from cordless phone to mobile phone.",
+    "source": "User-supplied Week 10 assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 10,
+    "num": 9,
+    "q": "In the development of bicycles, which of the following can be considered transformational?",
+    "options": [
+      "Improvement from wooden seat to cushioned seat",
+      "Making the seat more ergonomic",
+      "Adding a carrier",
+      "Adding gears to a bicycle"
+    ],
+    "correct": 3,
+    "explain": "The screenshot marks adding gears to a bicycle.",
+    "source": "User-supplied Week 10 assignment screenshot",
+    "multi": false
+  },
+  {
+    "week": 10,
+    "num": 10,
+    "q": "In the development of airplanes, we can associate imagination with:",
+    "options": [
+      "Designing fixed wings even though birds have flapping wings",
+      "Adding seats inside an airplane",
+      "Creating a cargo version of the airplane",
+      "Adding more engines to the airplane"
+    ],
+    "correct": 0,
+    "explain": "The screenshot marks designing fixed wings even though birds have flapping wings.",
+    "source": "User-supplied Week 10 assignment screenshot",
+    "multi": false
+  }
+]
